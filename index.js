@@ -1,1 +1,1 @@
-console.log("from index console");
+console.log("from index");
